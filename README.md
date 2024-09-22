@@ -1,19 +1,4 @@
-<<<<<<< HEAD
-# 101329925_comp3123lab3
-=======
-# Class Exercise node Project
+Name: Jorrel Tigbayan
+ID: 101329295
 
-- Complete given class exercise
-- Follow instruction mentions as a TODO - comments in source code files
-- Fix any error found in the code
-- Use SLACK or email to send any question
-
-# Summary of Changes:
-- Added an employeeModule to manage employee data.
-## Defined handlers for each URL:
-- / returns a welcome message.
-- /employee returns all employee details.
-- /employee/names returns employee full names in ascending order.
-- /employee/totalsalary returns the total salary of all employees.
-## Properly set response headers for JSON and HTML content.
->>>>>>> 956a86d ('commit')
+Lab 3 Exercise
